@@ -1,0 +1,20 @@
+name: Clans
+version: 1.0
+main: me.marco.Base.Core
+api-version: 1.20
+commands:
+  clan:
+    description: Clan command
+    usage: /<clan>
+    aliases: [c, clans, faction, f]
+  admin:
+    description: Admin command
+    usage: /<admin>
+    aliases: [ x ]
+  kit:
+    description: Kit command
+    usage: /<kit>
+  cosmetics:
+    description: Cosmetic command
+    usage: /<cosmetics>
+    aliases: [ cosmetic ]
